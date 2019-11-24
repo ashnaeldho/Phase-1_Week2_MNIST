@@ -1,9 +1,11 @@
 # Phase-1_Week2_MNIST
 Week2 Assignment
 
+For 17th epoch, the accuracy is 99.45%. This is the highest accuracy I'm getting.
+
+1. Log file for 20 epochs:
 
 
-Log file for 20 epochs:
 Train on 60000 samples, validate on 10000 samples
 Epoch 1/20
 
